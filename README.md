@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Av!</h2>
+<h2 align="center">Hi there, I'm Av ⚡</h2>
 
 ###
 
