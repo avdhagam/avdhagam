@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a final year student at PES University<br>- 📚 I'm currently learning DSA, ML and web dev<br>- ⚡ In my free time I brainrot</p>
+<p align="left">- 🔭 I’m a final year student at PES University<br>- 📚 I'm currently learning DSA, ML and web dev<br>- ⚡ In my free time I j be chillin tbh</p>
 
 ###
 
