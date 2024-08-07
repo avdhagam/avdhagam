@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Av. I'm a final year student at PES University studying Comp Science <3</h1>
+<h1 align="center">Hey there, I'm Av <3</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avdhagam&label=Profile%20views&color=0e75b6&style=flat" alt="avdhagam" /> </p>
 
-- 🌱 I’m currently learning **DSA, JavaScript and a lot of other cool stuff**
+
 
 - 📫 How to reach me **davanisri@gmail.com**
 
