@@ -52,6 +52,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/avdhagam/avdhagam/output/snake.svg" alt="Snake animation" />
 
 ###
