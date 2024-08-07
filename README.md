@@ -1,11 +1,10 @@
-<h2 align="center">Hi there, I'm Av ⚡</h2>
+<div align="center">
+  <img height="250" src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af036d1ba18e94b10a112dc0e730/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdhagam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdhagam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align="center">Hi there, I'm Av!</h2>
 
 ###
 
@@ -55,7 +54,8 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://private-user-images.githubusercontent.com/74038190/243078871-08fa9f5b-dcb7-4f5e-8721-203468dda5f3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMwMzg1MzksIm5iZiI6MTcyMzAzODIzOSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4NzEtMDhmYTlmNWItZGNiNy00ZjVlLTg3MjEtMjAzNDY4ZGRhNWYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA3VDEzNDM1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2MDUzZjEwODU2Y2E3NDkwYzExZDFiMzVlOTk3ZDQwNDQxZGQ4Njg2MzM3NDEwNTk2ZmY5NGYxOWExNjk1NTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dDwCU6FbM9OZdXZgee8mdwMg13izpAF3sJFfGdDMXbI"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=avdhagam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avdhagam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
