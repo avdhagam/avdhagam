@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a final year student at PES University<br>- 📚 I'm currently learning DSA, ML and web dev<br>- ⚡ My fav hobby is travelling from whitefield to ecity</p>
+<p align="left">- 🔭 I’m a final year student at PES University<br>- 📚 I'm currently learning DSA, ML and web dev<br>- ⚡ My fav hobby is travelling from whitefield to ecity XD</p>
 
 ###
 
